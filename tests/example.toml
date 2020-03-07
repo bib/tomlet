@@ -1,0 +1,8 @@
+# example.toml
+
+[One]
+one.first = "val-1"
+
+[Two]
+two1 = "val-2-1"
+two2 = "val-2-2"
